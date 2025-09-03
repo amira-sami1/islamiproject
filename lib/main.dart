@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:islamiproject/ui/home/home_screen.dart';
-import 'package:islamiproject/utils/app_routes.dart';
+import 'package:islami_project/ui/home/home_screen.dart';
+import 'package:islami_project/utils/app_routes.dart';
 
 void main() {
   runApp(MyApp());
