@@ -15,6 +15,12 @@ class AppAssets {
   static const String iconSearch = 'assets/images/icon_search.png';
   static const String mostRecently = 'assets/images/most_recently_image.png';
   static const String vectorImage = 'assets/images/vector_image.png';
+  static const String detailsBg = 'assets/images/details_bg.png';
+  static const String sebhaHead = 'assets/images/sebha_head.png';
+  static const String sebhaRing = 'assets/images/sebha_ring.png';
+
+
+
 
 
 
