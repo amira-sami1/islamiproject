@@ -18,6 +18,22 @@ class AppAssets {
   static const String detailsBg = 'assets/images/details_bg.png';
   static const String sebhaHead = 'assets/images/sebha_head.png';
   static const String sebhaRing = 'assets/images/sebha_ring.png';
+  static const String radioMosque = 'assets/images/radio_mosque.png';
+  static const String timeCard = 'assets/images/time_card.png';
+  static const String morningAzkar = 'assets/images/morning_azkar.png';
+  static const String eveningAzkar = 'assets/images/evening_azkar.png';
+  static const String hadethDetailsBg = 'assets/images/hadeth_details_bg.png';
+  static const String hadethLeftCorner = 'assets/images/hadeth_left_corner.png';
+  static const String hadethRightCorner = 'assets/images/hadeth_right_corner.png';
+  static const String hadethMosque = 'assets/images/hadeth_mosque.png';
+
+
+
+
+
+
+
+
 
 
 

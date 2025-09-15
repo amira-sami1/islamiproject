@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:islami_project/ui/home/tabs/quran/quran_resources.dart';
 import 'package:islami_project/ui/home/tabs/quran/widget/sura_item.dart';
 import 'package:islami_project/utils/app_assets.dart';
 import 'package:islami_project/utils/app_colors.dart';
@@ -91,7 +92,7 @@ class QuranTab extends StatelessWidget {
                   endIndent: width * 0.10,
                 );
               },
-              itemCount: 114
+              itemCount: QuranResources.quranSurahAyahs.length
           ),
           ),
 

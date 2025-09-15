@@ -10,6 +10,9 @@ class AppColors {
   static const Color yellowMiddleColor = Color(0xFFDBAC5B);
   static const Color yellowMediumDarkColor = Color(0xFFB6893A);
   static const Color yellowDarkColor = Color(0xFF77623D);
+  static const Color brownColor = Color(0xFF856B3F);
+  static const Color brownLightColor = Color(0xFFB19768);
+
 
 }
 
