@@ -26,6 +26,13 @@ class AppAssets {
   static const String hadethLeftCorner = 'assets/images/hadeth_left_corner.png';
   static const String hadethRightCorner = 'assets/images/hadeth_right_corner.png';
   static const String hadethMosque = 'assets/images/hadeth_mosque.png';
+  static const String welcomeIslami = 'assets/images/wlcome_islami.png';
+  static const String welcomeMosque = 'assets/images/welcome_mosque.png';
+  static const String welcomeQuran = 'assets/images/welcome_quran.png';
+  static const String welcomeSepha = 'assets/images/welcome_sepha.png';
+  static const String welcomeRadio = 'assets/images/welcome_radio.png';
+
+
 
 
 
